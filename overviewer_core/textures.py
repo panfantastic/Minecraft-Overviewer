@@ -3099,3 +3099,12 @@ def end_porta_frame(blockid, data):
 
 # end stone
 block(blockid=121, top_index=175)
+
+# redpower blocks, rendering as solid until we have textures
+block(blockid=139, top_index=1)
+block(blockid=140, top_index=1)
+block(blockid=141, top_index=1)
+block(blockid=142, top_index=1)
+block(blockid=143, top_index=1)
+block(blockid=144, top_index=1)
+block(blockid=145, top_index=1)
